@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Yakov Lyrics</string>
+    <string name="carregando">Carregando...</string>
+    <string name="action_settings">Settings</string>
+</resources>
